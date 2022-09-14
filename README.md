@@ -1,6 +1,6 @@
 # Project Image Container
 
-This is a public image container with open source images from respective _Legal and Free Sources on the internet_
+This is a public image container with open source images from respective __Legal and Free Sources__ on the internet
 
 ## Source Attribution
-[unDraw](undraw.co) __attributed on__ `September 14, 2022`
+[unDraw](undraw.co) _attributed on_ `September 14, 2022`
